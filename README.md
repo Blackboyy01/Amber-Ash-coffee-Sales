@@ -1,5 +1,5 @@
-# Amber&Ash-coffee-Sales
-# Amber&Ash Coffee — Sales & Market Expansion Analysis
+# Monday-coffee-Sales
+# Monday Coffee — Sales & Market Expansion Analysis
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Data_Analysis-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Window Functions](https://img.shields.io/badge/Window_Functions-CTEs-003B57?style=for-the-badge)
@@ -12,9 +12,9 @@
 
 ##  Problem Statement
 
-Amber & Ash, a coffee retailer that began selling its products in 2023, is looking to expand its physical presence by opening new café locations across India. Despite growing online sales, the company lacks clarity on which cities offer the strongest market opportunity — based on actual consumer demand, revenue performance, and cost efficiency.
+Monday, a coffee retailer that began selling its products in 2023, is looking to expand its physical presence by opening new café locations across India. Despite growing online sales, the company lacks clarity on which cities offer the strongest market opportunity — based on actual consumer demand, revenue performance, and cost efficiency.
 
-The core business challenge is: **which cities should Amber & Ash Coffee prioritise for physical expansion, and why?**
+The core business challenge is: **which cities should Monday Coffee prioritise for physical expansion, and why?**
 
 Without a structured analysis of sales performance, customer behaviour, and market sizing, the expansion strategy risks being driven by assumption rather than data.
 
