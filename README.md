@@ -45,6 +45,10 @@
 -----
 
 ## 1. Executive Summary
+## 1. Executive Summary
+
+[View Executive Summary](MondayCoffee%20Report.pdf#page=1)
+
 
 Monday Coffee has generated **₹3.86M+** in cumulative revenue, with Q4 2023 contributing **₹1.44M** (~37%), signaling strong recent momentum. Performance is split across a two-tier market structure: high-value cities and high-volume but lower-yield cities.
 
