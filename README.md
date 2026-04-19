@@ -117,7 +117,7 @@ The project uses four relational tables:
 
 ## 2. Key Insights
 
-[View Key Insights] it on **PAGE 2** after the executive summary (MondayCoffee%20Report.pdf#page=2)
+[View Key Insights,it on **PAGE 2** after the executive summary ](MondayCoffee%20Report.pdf#page=2)
 
 ### 2.1 Revenue Performance
 
@@ -173,7 +173,7 @@ Month-on-month sales growth data highlights strong positive momentum in select c
 
 ## 3. Recommendations
 
-[View Recommendations] it on **PAGE 3** after the key insights (MondayCoffee%20Report.pdf#page=3)
+[View Recommendations,it on **PAGE 3** after the key insights ](MondayCoffee%20Report.pdf#page=3)
 
 Based on analysis of revenue performance, customer, market penetration, and operational cost efficiency, the following five actions are recommended.
 
