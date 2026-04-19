@@ -45,10 +45,8 @@
 -----
 
 ## 1. Executive Summary
-## 1. Executive Summary
 
 [View Executive Summary](MondayCoffee%20Report.pdf#page=1)
-
 
 Monday Coffee has generated **₹3.86M+** in cumulative revenue, with Q4 2023 contributing **₹1.44M** (~37%), signaling strong recent momentum. Performance is split across a two-tier market structure: high-value cities and high-volume but lower-yield cities.
 
@@ -119,6 +117,8 @@ The project uses four relational tables:
 
 ## 2. Key Insights
 
+[View Key Insights](MondayCoffee%20Report.pdf#page=2)
+
 ### 2.1 Revenue Performance
 
 Pune leads all cities in both total and Q4 2023 revenue, confirming its position as the highest-performing market. Chennai and Bangalore follow closely, forming a premium-revenue tier.
@@ -172,6 +172,8 @@ Month-on-month sales growth data highlights strong positive momentum in select c
 -----
 
 ## 3. Recommendations
+
+[View Recommendations](MondayCoffee%20Report.pdf#page=3)
 
 Based on analysis of revenue performance, customer, market penetration, and operational cost efficiency, the following five actions are recommended.
 
