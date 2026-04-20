@@ -8,7 +8,7 @@
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Validation-003B57?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-> A SQL-based business intelligence project analysing coffee sales data across Indian cities to drive market expansion decisions.
+> A SQL-based business  project analysing coffee sales data across Indian cities to drive market expansion decisions.
 
 -----
 
