@@ -9,8 +9,7 @@
 -- CONNECTION LAYER
 -- ============================================================
 
--- Python connection snippet (run before executing this file):
---
+-- Python connection 
 --   import mysql.connector
 --
 --   conn = mysql.connector.connect(
